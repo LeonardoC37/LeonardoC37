@@ -9,7 +9,7 @@
 ## 🎓 Academic Journey
 
 ### 🇬🇧 **Master's at UCL (2024-2025)**
-- **University College London** - MSc Computer Graphics, Vision and Imaging(GPA: 80.33/100)
+- **University College London** - MSc Computer Graphics, Vision and Imaging(current GPA: 80.33/100)
 - Focusing on **Differentiable Rendering** and **Computational Optics**
 - Research on immersive display design for AR/VR systems
 
