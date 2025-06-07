@@ -60,15 +60,31 @@ research_areas = {
 
 ## 🎨 Hobbies & Interests
 
+> **ENFJ Personality** - The Protagonist: Natural leader with strong people skills and passion for helping others grow! 🌟
+
 ### 🎵 **Music Enthusiast**
+
 ```musical_note
 🏆 National Gold Award in Youth Vocal Competition
-🎤 Grade 8/8 in Vocal Performance
-🎹 Grade 6/10 in Piano
+🎤 Grade 8 in Vocal Performance
+🎹 Grade 6 in Piano
 🎼 Love all genres: Classical, Pop, Rock, Jazz, Electronic
+🎭 Musical Theater & Stage Drama Lover
+```
+
+### 🌍 **World Explorer & Cultural Enthusiast**
+
+```travel
+✈️ Visited 20+ Countries & Regions worldwide
+🗺️ Explored 20+ Provinces across China
+🏛️ Museum & Art Gallery Enthusiast
+🎭 Musical Theater & Stage Drama Aficionado
+🍜 Foodie & Culinary Explorer - Love cuisines from around the world
+👨‍🍳 Seasoned Chef - Master of international cooking
 ```
 
 ### 🏃‍♂️ **Sports & Games**
+
 ```sports
 🏓 Table Tennis    🏸 Badminton     🎾 Tennis        ⛳ Golf
 🏃 Sprint & Distance Running        🏊 Swimming (Breaststroke & Freestyle)
@@ -76,15 +92,21 @@ research_areas = {
 ```
 
 ### 🎨 **Arts & Literature**
+
 - 🖊️ **Writing**: Provincial Special Prize in New Concept Essay Competition
 - 🎨 **Drawing**: National 3rd Prize in Sketching Competition
 - 📚 **Reading**: 500+ world classics, 10+ billion characters of online novels
 - 🎬 **Movies**: 500+ films across all genres (Sci-fi, Mystery, Fantasy)
 
 ### 🗣️ **Languages**
+
 - 🇨🇳 **Mandarin**: Level 2A Certification
 - 🇬🇧 **English**: IELTS 8.0 (L:9.0, R:9.0, W:7.5, S:7.0)
 - 💻 **Programming**: Java, Python, C++, JavaScript, MATLAB
+
+------
+
+## 
 
 ---
 
