@@ -9,19 +9,19 @@
 ## 🎓 Academic Journey
 
 ### 🇬🇧 **Master's at UCL (2024-2025)**
-- **University College London** - MSc Computer Graphics, Vision and Imaging(current GPA: 80.33/100)
+- **University College London** - MSc Computer Graphics, Vision and Imaging(Distinction)
 - Focusing on **Differentiable Rendering** and **Computational Optics**
 - Research on immersive display design for AR/VR systems
 
 ### 🇨🇳 **Bachelor's at SDU (2020-2024)**
 - **Shandong University** - Software Engineering (GPA: 87.83/100)
-- **Outstanding Graduate** & **Model Graduate** of Shandong Province 2024
+- **Outstanding Graduate** of Shandong Province 2024, & **Model Graduate** of SDU
 - Published **3 academic papers** including **IJCAI 2024** and **Computer Aided Geometric Design**
 
 ### 🏫 **High School Excellence**
 - **Chongqing Yucai High School** Graduate
-- **National First Prize** in High School Mathematics Competition
-- **Provincial Awards** in Mathematics Olympiad
+- **Provincial 1st Prize** in National High School Mathematics League (CNHMO)
+- **Medalist (Gold, Silver & Bronze)** in CWMI & CSMO Mathematics Olympiads
 
 ---
 
@@ -44,7 +44,6 @@ research_areas = {
 - 🥇 **14th Chinese Mathematics Competition** - National 1st Prize (2023)
 - 🥇 **12th Chinese Mathematics Competition** - National 1st Prize (2020)
 - 🥇 **Shandong Provincial Mathematics Competition** - 1st Prize (Multiple Years)
-- 🥉 **High School Math Olympiad** - Regional 1st Prize, Provincial 1st & 2nd Prize
 
 ### 📝 **Publications**
 - **[IJCAI 2024]** Breaking Barriers of System Heterogeneity: Straggler-Tolerant Multimodal Federated Learning
@@ -95,7 +94,7 @@ research_areas = {
 
 - 🖊️ **Writing**: Provincial Special Prize in New Concept Essay Competition
 - 🎨 **Drawing**: National 3rd Prize in Sketching Competition
-- 📚 **Reading**: 500+ world classics, 10+ billion characters of online novels
+- 📚 **Reading**: 500+ world classics, 2+ billion characters of online novels
 - 🎬 **Movies**: 500+ films across all genres (Sci-fi, Mystery, Fantasy)
 
 ### 🗣️ **Languages**
@@ -193,7 +192,7 @@ current_goals = {
 ---
 
 <div align="center">
-  
+
 ### 🎵 *"Life is like mathematics - it has its patterns, its beauty, and endless possibilities to explore!"* 🎵
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername&left_color=green&right_color=red)
