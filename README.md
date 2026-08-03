@@ -12,11 +12,12 @@
 - **University College London** - MSc Computer Graphics, Vision and Imaging(Distinction)
 - Focusing on **Differentiable Rendering** and **Computational Optics**
 - Research on immersive display design for AR/VR systems
+- Published **1 academic papers**
 
 ### 🇨🇳 **Bachelor's at SDU (2020-2024)**
 - **Shandong University** - Software Engineering (GPA: 87.83/100)
 - **Outstanding Graduate** of Shandong Province 2024, & **Model Graduate** of SDU
-- Published **3 academic papers** including **IJCAI 2024** and **Computer Aided Geometric Design**
+- Published **4 academic papers**
 
 ### 🏫 **High School Excellence**
 - **Chongqing Yucai High School** Graduate
@@ -94,7 +95,7 @@ research_areas = {
 
 - 🖊️ **Writing**: Provincial Special Prize in New Concept Essay Competition
 - 🎨 **Drawing**: National 3rd Prize in Sketching Competition
-- 📚 **Reading**: 500+ world classics, 2+ billion characters of online novels
+- 📚 **Reading**: 500+ world classics, 3+ billion characters of online novels
 - 🎬 **Movies**: 500+ films across all genres (Sci-fi, Mystery, Fantasy)
 
 ### 🗣️ **Languages**
@@ -170,7 +171,7 @@ current_goals = {
 
 - 🧮 **Math Wizard**: Won national mathematics competitions multiple times
 - 🎵 **Music Multi-talent**: Can play piano, sing professionally, and compose
-- 📖 **Bookworm**: Read 500+ classics and 1.5+ billion characters online
+- 📖 **Bookworm**: Read 500+ classics and 2.5+ billion characters online
 - 🏃‍♂️ **Sports Enthusiast**: From table tennis to horse riding, I try everything!
 - 🎮 **Strategy Games Master**: Chess, Go, Chinese Chess - bring it on!
 - 🎬 **Movie Buff**: 500+ films and counting
